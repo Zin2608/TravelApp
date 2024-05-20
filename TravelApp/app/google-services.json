@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328505668633",
+    "project_id": "doancuoiky-51750",
+    "storage_bucket": "doancuoiky-51750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328505668633:android:53a0aa7e86042aeea0a688",
+        "android_client_info": {
+          "package_name": "com.example.travelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFGZLeDYa5WsTHp-9LAzqpMn0BSK-cedw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
